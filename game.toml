@@ -43,6 +43,7 @@ strict = true
 openbios = false
 window_title = "Blood Omen: Legacy of Kain Recompiled"
 memcard_dir = "saves"
+overlay_cache = true
 
 [video]
 renderer = "opengl"
